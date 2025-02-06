@@ -2,8 +2,12 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hi 👋, I'm Sandaruwan Aththanayaka</h1>
 <h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=scar1109&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
-
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=sandaruwank&color=green" alt="sandaruwank" />
+  &nbsp<img src="https://img.shields.io/badge/Maintained%3F-yes-blue.svg" alt="sandaruwank" /> 
+  &nbsp<img src="https://img.shields.io/github/followers/sandaruwank.svg?style=social&label=Follow&maxAge=2592000" alt="sandaruwank" />
+  &nbsp<img src="https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label" alt="sandaruwank" />
+</p>
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
