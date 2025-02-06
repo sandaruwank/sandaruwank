@@ -17,6 +17,7 @@
 - 📫 How to reach me **sandaruwankaththanayaka@gmail.com**
   
 - ⚡ Fun fact **Call me as Da Vinci**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&width=435&lines=An+software+engineer;UI%2FUX+Designer;Full+stack+web+developer)](https://git.io/typing-svg)
 
 </td>
 <td width="50%" align="center">
