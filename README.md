@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Java**
 
-- 📫 How to reach me **sandaruwankaththanayaka.com**
+- 📫 How to reach me **sandaruwankaththanayaka@gmail.com**
   
 - ⚡ Fun fact **Call me as Da Vinci**
 
